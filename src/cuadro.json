@@ -1,0 +1,65 @@
+[
+    {
+        "id":0,
+        "titulo":"La noche estrellada",
+        "autor":"Vincent van Gogh",
+        "fecha":"23-12-1889",
+        "nameFire":"cuadro1.png"
+    },
+    {
+        "id":1,
+        "titulo":"Le Fils de l'Homme",
+        "autor":"René Magritte",
+        "fecha":"1964",
+        "nameFire":"cuadro2.webp"
+    },
+    {
+        "id":2,
+        "titulo":"La Gioconda",
+        "autor":"Leonardo da Vinci",
+        "fecha":"1503",
+        "nameFire":"monaLisa.jpg"
+    },
+    {
+        "id":3,
+        "titulo":"Las meninas",
+        "autor":"Diego Velázquez",
+        "fecha":"1656",
+        "nameFire":"lasMeninas.jpg"
+    },
+    {
+        "id":4,
+        "titulo":"La Libertad guiando al pueblo",
+        "autor":"Eugène Delacroix",
+        "fecha":"1830",
+        "nameFire":"cuadro5.jpg"
+    },
+    {
+        "id":5,
+        "titulo":"Guernica",
+        "autor":"Pablo Ruiz Picasso ",
+        "fecha":"1937",
+        "nameFire":"guernica.jpg"
+    },
+    {
+        "id":6,
+        "titulo":"La gran ola de Kanagawa",
+        "autor":"Katsushika Hokusai",
+        "fecha":"1830",
+        "nameFire":"great.jpg"
+    },
+    {
+        "id":7,
+        "titulo":"La joven de la perla",
+        "autor":"Johannes Vermeer",
+        "fecha":"1665-1667",
+        "nameFire":"perla.jpg"
+    },
+    {
+        "id":8,
+        "titulo":"Autorretrato de Vincent Van Gogh",
+        "autor":"Vincent Van Gogh",
+        "fecha":"1889",
+        "nameFire":"autoRetratoVanGogh.jpg"
+    }
+]
