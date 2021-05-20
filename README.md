@@ -2,3 +2,4 @@
 
 Ejemplo de proyecto de galeria con Vue. 
 Ensayo de pagina responsive
+https://galeriavue.web.app
